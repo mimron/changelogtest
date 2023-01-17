@@ -32,3 +32,4 @@ console.log("feat: feature 5");
 
 console.log("fix: bug one");
 console.log("fix: bug two");
+console.log("fix: bug three");
