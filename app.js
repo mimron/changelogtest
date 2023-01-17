@@ -23,3 +23,4 @@ console.log("test");
 console.log("test");
 
 console.log("fig  bug 1");
+console.log("fig  bug 2");
