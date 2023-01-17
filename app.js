@@ -21,3 +21,5 @@ console.log("test");
 console.log("test");
 console.log("test");
 console.log("test");
+
+console.log("fig  bug 1");
